@@ -20,5 +20,6 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
+  transpilePackages: ["@zerodevapp", "@web3"]
 };
 export default config;
